@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RiscoCavalcante
 - I’m interested in web development, programming and electronic games
-- I’m currently learning the programming languages ​​C, Java, CSS, HTML JavaScript and React
+- I’m currently learning the programming languages ​​C, Java, CSS, HTML JavaScript and Python
 - 👨‍💻 This page is dedicated to codes and small projects. To add experience and improve my skills.
